@@ -8,7 +8,7 @@ SETUP:
 
 Open the solution file in Visual Studio and run it with the play button. All the dependencies should be handled by visual studio.
 
-The is an approximation of this design https://www.figma.com/design/TLXp8wAbdhiAmcNNu5sYBu/MDBEE-%5BDesktop-Task%5D?node-id=0-1&p=f&t=2QZfxh2kwfUXJAs7-0
+The solution is an approximation of this design https://www.figma.com/design/TLXp8wAbdhiAmcNNu5sYBu/MDBEE-%5BDesktop-Task%5D?node-id=0-1&p=f&t=2QZfxh2kwfUXJAs7-0
 
 Potential improvements:
 - Process all the events as commands in the VM, and handle them in the view using bindings
