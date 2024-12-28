@@ -22,3 +22,8 @@ Potential improvements:
     - Apply a blurred background instead of a solid one
     - Apply the additional blurred background color on the result line
 - The dark theme is not applied to the app, hence the white border
+
+
+Here is a demo of the app:
+
+https://youtu.be/oxYrwaBN0tU
